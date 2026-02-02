@@ -1,0 +1,8 @@
+{
+  "name": "ViralPostAgent Pro",
+  "description": "An AI-powered social media strategist that generates platform-optimized viral content using Gemini 3 Pro reasoning and image generation.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
